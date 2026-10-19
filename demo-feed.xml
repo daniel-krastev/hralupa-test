@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed version="1.0" generated_at="2026-10-08T00:15:07+00:00">
+  <agency>
+    <name>Агенция Пример</name>
+    <contact_name>Иван Петров</contact_name>
+    <email>office@example-agency.bg</email>
+    <phone>+359888000000</phone>
+    <website>https://www.example-agency.bg/</website>
+    <logo>https://www.example-agency.bg/wp-content/uploads/logo.jpg</logo>
+  </agency>
+  <properties count="20">
+    <property>
+      <reference>364762</reference>
+      <source_reference>364762</source_reference>
+      <wordpress_id>364762</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T15:11:51+02:00</date_published>
+      <date_modified>2026-10-07T15:11:51+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/first-line-1-bedroom-apartment-with-garden-view-sun-wave-sveti-vlas/</url>
+      <title language="en">First-Line 1-Bedroom Apartment with Garden View | Sun Wave, Sveti Vlas</title>
+      <description language="en" format="plain_text">First-Line 1-Bedroom Apartment with Garden View | Sun Wave, Sveti Vlas Example Agency offers for sale this furnished 1-bedroom apartment with garden view in Sun Wave, a popular beachfront complex in Sveti Vlas. Total area: 67 sq.m. Floor: 2nd Bedrooms: 1 View: Garden Furnishing: Furnished Maintenance fee: €12/sq.m. per year Location: First line to the sea Keys: In our office – flexible viewings Layout: living room with kitchen and dining area, separate bedroom, bathroom with toilet, and balcony. The apartment offers a comfortable layout and a pleasant view towards the landscaped grounds. Its first-line location makes it an attractive choice for holidays, longer stays or rental investment. Sun Wave offers swimming pools, landscaped green areas, relaxation zones, controlled access, security and direct access to the beach. We have the keys in our office. Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Sun Wave</area>
+        <address>Sun Wave, ul. Lazur, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.708874699999996</latitude>
+        <longitude>27.7531815</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">124000</price>
+      <areas unit="sqm">
+        <built>67</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>6</total_floors>
+        <year_built>2012</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="1-st-line-to-the-beach">First line to the beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/3jvxt9oogv0gggg4c08cs080w8k08k.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/nkqy1c5graoo48ggko4s044ss8wo4g.jpg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/2bl8ditgcuzo4ok8s4k8s44sg4oko8.jpg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/kihhgji2qio4ss40ogckok4s08cwgc.jpg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/gt0pk9bplvs4ko8804ok4gog8kocww.jpg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/kk5dt4alyi8sw4w084swow0gwscogc.jpg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/m9rfjnpn7wg4sokggw8o8k808kw8wk.jpg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/ty0mqhffps0w8kg08s0og4c80cggsw.jpg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/ty0mqhffps0w8kg08s0og4c80cggsw-1.jpg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/gt0pk9bplvs4ko8804ok4gog8kocww-1.jpg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/j15f6kvzq5w8okcg8c84kkkg0c8ogw.jpg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/j15f6kvzq5w8okcg8c84kkkg0c8ogw-1.jpg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/mhmwpj2ruk0s8kcs40kkoks4wwgow0.jpg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/q8u59gujrw0scgww84cooc0ook8oso.jpg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/5qhn6pajvh0cgo48gg80k80c0k8sos.jpg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/cqxd1ifxi74gk8000cg408cgcsc8cs.jpg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/ep54yj7q374sc8wcocsg4gs0k8ggos.jpg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/nesmkjwg5v4oscwkw8ws48kscgco08.jpg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/rlxz60wlef4wgookc4gwsgkgwsc0ow.jpg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/tuo1rxe9do0sskw84wskk08gs08swo.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364738</reference>
+      <source_reference>364738</source_reference>
+      <wordpress_id>364738</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T14:16:38+02:00</date_published>
+      <date_modified>2026-10-07T14:16:38+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/1-bedroom-apartment-with-mountain-view-harmony-8-sunny-beach/</url>
+      <title language="en">1-Bedroom Apartment with Mountain View | Harmony 8, Sunny Beach</title>
+      <description language="en" format="plain_text">1-Bedroom Apartment with Mountain View | Harmony 8, Sunny Beach Example Agency offers for sale this 1-bedroom apartment in Harmony 8, Sunny Beach, with views towards the inner courtyard and the mountains. Total area: 52 sq.m. Floor: 5th of 7 Bedrooms: 1 Aspect: North View: Inner courtyard and mountains Maintenance fee: €22.50/sq.m. per year Layout: living room with kitchen and dining area, separate bedroom, bathroom with toilet, and balcony. The apartment faces the inner courtyard and enjoys a pleasant open view towards the mountains. Its practical layout makes it suitable for holidays, longer stays or rental investment. Harmony 8 is a modern gated complex offering landscaped common areas, swimming pool, relaxation areas, controlled access and professional maintenance. Interested in the property? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Harmony Suites 8, 9 - Dream Island</area>
+        <address>Harmony Suites 8, 9 - Dream Island, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7082085</latitude>
+        <longitude>27.7156823</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">98000</price>
+      <areas unit="sqm">
+        <built>59</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>5</floor>
+        <total_floors>6</total_floors>
+        <year_built>2016</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-28.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-29.jpg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-28-2.jpg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-33.jpg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-37.jpg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-36.jpg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-36-2.jpg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-35.jpg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-32.jpg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-31-2.jpg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-33-2.jpg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-34.jpg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-25.jpg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-31.jpg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/photo_2026-03-19_14-30-27.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364722</reference>
+      <source_reference>364722</source_reference>
+      <wordpress_id>364722</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T13:47:59+02:00</date_published>
+      <date_modified>2026-10-07T14:23:00+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/great-price-spacious-apartment-2-bedrooms-2-bathrooms-royal-sun-sunny-beach/</url>
+      <title language="en">Great Price! Spacious Apartment | 2 bedrooms, 2 bathrooms | Royal Sun, Sunny Beach</title>
+      <description language="en" format="plain_text">Great Price! Spacious 2-Bedroom Apartment with Large Curved Terrace | Royal Sun, Sunny Beach Example Agency offers for sale this spacious 2-bedroom apartment with two bathrooms and a large curved terrace in the popular Royal Sun complex, Sunny Beach. Total area: 94 sq.m. Floor: 2nd Bedrooms: 2 Bathrooms: 2 Terrace: Large curved terrace Keys: In our office – flexible viewings Layout: spacious living room with kitchen and dining area, two separate bedrooms, two bathrooms, and a large curved terrace providing plenty of additional outdoor space. One bathroom is equipped with a bathtub, toilet and washbasin, while the second has a shower cabin, toilet and washbasin. With 94 sq.m. of space, two bedrooms, two bathrooms and a large terrace, the apartment offers a comfortable layout for families and is an excellent choice for both permanent living and rental investment. Royal Sun is a popular gated complex offering large outdoor swimming pools, landscaped gardens, children's areas, reception, security, restaurant, SPA and fitness facilities. The beach, shops, restaurants and the centre of Sunny Beach are within easy walking distance. Attractively priced and easy to view – we have the keys in our office. Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Royal Sun</area>
+        <address>Royal Sun Holiday Complex, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.6851529</latitude>
+        <longitude>27.7042603</longitude>
+      </location>
+      <property_type>
+        <name>2-bedroom</name>
+        <slug>2_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">96000</price>
+      <areas unit="sqm">
+        <built>94</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>4</rooms>
+        <bedrooms>2</bedrooms>
+        <bathrooms>2</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>6</total_floors>
+        <year_built>2008</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>Bargain</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="security">Security</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="spa">SPA</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="wheelchair-access">Wheelchair access</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>1</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal_sun-Sunny-Beach-005.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal_sun-Sunny-Beach-004-1.jpg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal-Sun-Sunny-Beach-9.jpg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-2.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142842-1.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142842.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-9.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-4.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-7.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-3.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-5.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-8.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-6.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-1.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-2.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-3.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-4.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-5.jpeg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142839-6.jpeg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-1.jpeg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-2.jpeg</image>
+        <image order="23">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840.jpeg</image>
+        <image order="24">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841-1.jpeg</image>
+        <image order="25">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-9.jpeg</image>
+        <image order="26">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142841.jpeg</image>
+        <image order="27">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-3.jpeg</image>
+        <image order="28">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-4.jpeg</image>
+        <image order="29">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-5.jpeg</image>
+        <image order="30">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-6.jpeg</image>
+        <image order="31">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-7.jpeg</image>
+        <image order="32">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-142840-8.jpeg</image>
+        <image order="33">https://www.example-agency.bg/wp-content/uploads/2026/04/royal-Sun-sunny-beach-001.jpg</image>
+        <image order="34">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal_sun-Sunny-Beach-008-1.jpg</image>
+        <image order="35">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal-Sun-Sunny-Beach-8.jpg</image>
+        <image order="36">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal-Sun-Sunny-Beach-7.jpg</image>
+        <image order="37">https://www.example-agency.bg/wp-content/uploads/2026/04/Royal-Sun-Sunny-Beach-6.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364691</reference>
+      <source_reference>364691</source_reference>
+      <wordpress_id>364691</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T12:35:10+02:00</date_published>
+      <date_modified>2026-10-07T16:54:25+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-1-bedroom-apartment-with-sea-view-privilege-fort-beach-elenite/</url>
+      <title language="en">Furnished 1-Bedroom Apartment with Sea View | Privilege Fort Beach, Elenite</title>
+      <description language="en" format="plain_text">Furnished 1-Bedroom Apartment with Sea View | Privilege Fort Beach, Elenite Example Agency offers for sale this furnished 1-bedroom apartment with sea view in Privilege Fort Beach, Elenite. Total area: 60 sq.m. Floor: 2nd Bedrooms: 1 View: Sea Furnishing: Furnished Maintenance fee: €14/sq.m. per year The apartment offers comfortable living space and is suitable for holidays, longer stays or rental investment. Privilege Fort Beach is a beachfront gated complex surrounded by greenery and offering swimming pools, children's areas, landscaped grounds, restaurants, sports facilities, parking and security. The combination of sea view and a location close to the beach makes this property an attractive choice for a seaside home. Interested? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Elenite</city>
+        <area>Privilege Fort Beach</area>
+        <address>Privilege Fort Beach, Elenite, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7022658</latitude>
+        <longitude>27.8076595</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">129999</price>
+      <areas unit="sqm">
+        <built>60</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>2</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>4</total_floors>
+        <year_built>2008</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>0</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort4.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort1.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort18.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort8.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort6.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort17.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort5.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort2.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort3.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort7.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort9.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort10.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort11.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort12.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort13.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort14.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort15.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort16.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/privilege-fort19.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364669</reference>
+      <source_reference>364669</source_reference>
+      <wordpress_id>364669</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T11:59:28+02:00</date_published>
+      <date_modified>2026-10-07T12:01:25+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/spacious-2-bedroom-apartment-with-sea-view-etara-4-sveti-vlas/</url>
+      <title language="en">Spacious 2-Bedroom Apartment with Sea View | Etara 4, Sveti Vlas</title>
+      <description language="en" format="plain_text">Spacious 2-Bedroom Apartment with Sea View | Etara 4, Sveti Vlas Example Agency offers for sale this spacious furnished 2-bedroom apartment with sea view in Etara 4, Sveti Vlas. Total area: 115 sq.m. Floor: 1st Bedrooms: 2 View: Sea Furnishing: Furnished Maintenance fee: €12/sq.m. per year With a generous area of 115 sq.m., the apartment offers plenty of comfortable living space and is suitable for holidays, longer stays or rental investment. Etara 4 is located in the prestigious Dinevi Resort area of Sveti Vlas, close to the beach and Marina Dinevi. The location provides easy access to restaurants, shops and seaside amenities. Interested in this spacious sea-view apartment? Get in touch and we'll arrange a viewing at a convenient time. TEST: description changed in the feed on 2026-10-19.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Etara 4</area>
+        <address>Etara 4, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7082354</latitude>
+        <longitude>27.7757211</longitude>
+      </location>
+      <property_type>
+        <name>2-bedroom</name>
+        <slug>2_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">280000</price>
+      <areas unit="sqm">
+        <built>115</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>3</rooms>
+        <bedrooms>2</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>5</total_floors>
+        <year_built>2024</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/etara2.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/etara1.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/etara6.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/etara7.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/etara4.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/etara3.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/etara11.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/etara5.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/etara8.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/etara9.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/etara10.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/etara12.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/etara13.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/etara14.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/etara15.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/etara16.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/etara17.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364668</reference>
+      <source_reference>364668</source_reference>
+      <wordpress_id>364668</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T11:54:01+02:00</date_published>
+      <date_modified>2026-10-07T11:54:01+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/compact-1-bedroom-apartment-in-a-quiet-location-druzhba-2-ruse/</url>
+      <title language="en">Compact 1-Bedroom Apartment in a Quiet Location | Druzhba 2, Ruse</title>
+      <description language="en" format="plain_text">Compact 1-Bedroom Apartment in a Quiet Location | Druzhba 2, Ruse Example Agency offers for sale this compact and functional 1-bedroom apartment with a total area of 41 sq.m., located in Druzhba 2, Ruse. Total area: 41 sq.m. Floor: 2nd Building: Brick construction Bedrooms: 1 Condition: In need of modernisation The apartment is an internal unit, making it warmer and more economical to heat. The building has a very well-maintained entrance and common areas. Layout: corridor with a separate niche for the water heater, living room with access to a balcony, kitchenette accessed through the living room, good-sized bedroom, and renovated bathroom with toilet. The property requires modernisation and replacement of the windows, giving the new owner the opportunity to renovate and furnish it according to their own taste. The apartment is situated in a quiet residential location with a large parking area in front of the building. Shops, pharmacy, public transport and everyday amenities are only a short walk away. Its practical layout, low floor and convenient location make it a good choice for your own home or rental investment. Interested? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Ruse</region>
+        <city>Ruse</city>
+        <area>g.k. Druzhba 2</area>
+        <address>Test Street 42, g.k. Druzhba 2, Ruse, Bulgaria</address>
+        <postal_code/>
+        <latitude>43.85274112706289</latitude>
+        <longitude>26.02178380212401</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">71999</price>
+      <areas unit="sqm">
+        <built>41</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms/>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors/>
+        <year_built>1975</year_built>
+        <furnishing>Partly</furnishing>
+        <heating/>
+        <label>Bargain</label>
+      </details>
+      <features>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>0</pool>
+        <elevator>0</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>0</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-24.JPG</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-15.JPG</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-22.JPG</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-3.JPG</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-9.JPG</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-11.JPG</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-apartment-ruse-17.JPG</image>
+      </images>
+    </property>
+    <property>
+      <reference>364624</reference>
+      <source_reference>364624</source_reference>
+      <wordpress_id>364624</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T11:27:56+02:00</date_published>
+      <date_modified>2026-10-07T11:33:52+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/spacious-furnished-1-bedroom-apartment-with-garden-view-garden-of-eden-sveti-vlas/</url>
+      <title language="en">Spacious Furnished 1-Bedroom Apartment with Garden View | Garden of Eden, Sveti Vlas</title>
+      <description language="en" format="plain_text">Spacious Furnished 1-Bedroom Apartment with Garden View | Garden of Eden, Sveti Vlas Example Agency offers for sale this spacious furnished 1-bedroom apartment with garden view in Garden of Eden, one of the best-known beachfront complexes in Sveti Vlas. Total area: 83 sq.m. Floor: 1st Bedrooms: 1 View: Garden Furnishing: Furnished Maintenance fee: €16/sq.m. per year With a generous area of 83 sq.m., the apartment offers considerably more space than a typical 1-bedroom property and is suitable for holidays, longer stays or rental investment. Garden of Eden is located directly by the sea and offers several swimming pools, beautifully landscaped gardens, restaurants and bars, SPA and fitness facilities, children's areas, parking, security and direct access to the beach. Interested in a spacious apartment in Garden of Eden? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Test Quarter</area>
+        <address>Garden of Eden, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7080686</latitude>
+        <longitude>27.7781746</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">119999</price>
+      <areas unit="sqm">
+        <built>83</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>1</floor>
+        <total_floors>4</total_floors>
+        <year_built>2008</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="1-st-line-to-the-beach">First line to the beach</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>0</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden16.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden3.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden9.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden10.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden11.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden12.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden13.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden14.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden15.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden1.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden2.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden8.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/gerden-eden4.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364616</reference>
+      <source_reference>364616</source_reference>
+      <wordpress_id>364616</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T10:22:34+02:00</date_published>
+      <date_modified>2026-10-07T11:36:13+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-1-bedroom-apartment-south-bay-sveti-vlas-3/</url>
+      <title language="en">Furnished 1-Bedroom Apartment | South Bay, Sveti Vlas</title>
+      <description language="en" format="plain_text">Furnished 1-Bedroom Apartment | South Bay, Sveti Vlas Example Agency offers for sale this furnished 1-bedroom apartment in South Bay, Sveti Vlas. Total area: 52 sq.m. Floor: 3rd Bedrooms: 1 View: City Furnishing: Furnished Maintenance fee: €7/sq.m. per year The apartment offers a practical layout and is suitable for holidays, longer stays or rental investment. Sveti Vlas is popular for its combination of beaches, beautiful surroundings and convenient access to shops, restaurants and everyday amenities. Interested in the property? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Sunny Beach</area>
+        <address>South Bay, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7114701</latitude>
+        <longitude>27.7419518</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">81000</price>
+      <areas unit="sqm">
+        <built>52</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>3</floor>
+        <total_floors>5</total_floors>
+        <year_built>2007</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay1.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay2.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay11.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay3.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay4.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay5.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay7.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay9.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/south-bay12.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364599</reference>
+      <source_reference>364599</source_reference>
+      <wordpress_id>364599</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-07T08:27:54+02:00</date_published>
+      <date_modified>2026-10-07T09:19:01+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/apartment-with-2-bedrooms-and-2-bathrooms-dawn-park-sunny-beach/</url>
+      <title language="en">Apartment with 2-Bedrooms and 2 Bathrooms | Dawn Park, Sunny Beach</title>
+      <description language="en" format="plain_text">Apartments with 2-Bedrooms and 2 Bathrooms | Dawn Park, Sunny Beach Example Agency offers for sale a stylish, fully furnished 2-bedroom apartment in Sunny Beach, located on the 5th floor in the well-maintained Dawn Park complex. Property details: Total area: 55 sq.m. Floor: 5 Layout: Living room with kitchen and dining area One Open plan bedroom Second separate Bedroom Two bathrooms with toilets Terrace The apartment is fully furnished and equipped, ready to move in or rent out. Complex amenities in Dawn Park: Large outdoor swimming pool with jacuzzi and massage beds Pool bar Children’s pool and kids club Restaurant with terrace Lobby bar Reception and parking Year-round maintenance and security Owners also benefit from free SPA access (16:00–18:00) in the nearby Izida Palace, including: Indoor pool Steam bath Finnish sauna with Himalayan salt Infrared sauna Relax zone Located in a quiet area, close to the aqua park and just a 10-minute walk to the beach and resort center. ✔️ Act 16 ✔️ Excellent for living or rental investment Maintenance fee:  21 EUR/sq. m. This property is ideal for personal use or as a reliable investment with strong rental potential. No buyer’s commission Legally verified property, free of encumbrances Full assistance throughout the purchase process Contact us today to arrange a viewing or request more information!</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Dawn Park</area>
+        <address>Dawn Park, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7038631</latitude>
+        <longitude>27.7115995</longitude>
+      </location>
+      <property_type>
+        <name>2-bedroom</name>
+        <slug>2_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">94500</price>
+      <areas unit="sqm">
+        <built>55</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>3</rooms>
+        <bedrooms>2</bedrooms>
+        <bathrooms>2</bathrooms>
+        <showers/>
+        <floor>5</floor>
+        <total_floors>6</total_floors>
+        <year_built>2015</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="indoor-swimming-pool">Indoor swimming pool</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="spa">SPA</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park1.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park8.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park13.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park14.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park10.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park12.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park9.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park11.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park5.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park6.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park15.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park4.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park2.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park3.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/dawn-park7.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/103306137.jpg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/46378659.jpg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/103306096.jpg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/103306127.jpg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/103306155.jpg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/103306171.jpg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/103306184.jpg</image>
+        <image order="23">https://www.example-agency.bg/wp-content/uploads/2026/10/296895423.jpg</image>
+        <image order="24">https://www.example-agency.bg/wp-content/uploads/2026/10/296895433.jpg</image>
+        <image order="25">https://www.example-agency.bg/wp-content/uploads/2026/10/296895434.jpg</image>
+        <image order="26">https://www.example-agency.bg/wp-content/uploads/2026/10/296895616.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364564</reference>
+      <source_reference>364564</source_reference>
+      <wordpress_id>364564</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-06T14:22:16+02:00</date_published>
+      <date_modified>2026-10-06T14:22:16+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/1-bedroom-bright-and-warm-apartment-in-charodeyka-quarter-ruse-city/</url>
+      <title language="en">1-bedroom bright and warm apartment in Charodeyka quarter Ruse city</title>
+      <description language="en" format="plain_text">Example Agency is pleased to offer for sale this bright and spacious 1-bedroom apartment, located in the central part of Charodeyka South, Ruse. The apartment is situated on the 6th floor of a residential building with a lift and has an area of 60 sq.m. Thanks to its east-south orientation, the property enjoys plenty of natural sunlight and is warm and bright throughout the day. The apartment consists of: Entrance corridor Large and bright living room Separate kitchen with access to a spacious double terrace Bedroom Bathroom with toilet One of the highlights of the property is the large, sunny double terrace, offering plenty of outdoor space for a comfortable seating area, morning coffee or simply relaxing in the fresh air. The apartment needs some modernisation, giving its new owners an excellent opportunity to renovate and design it according to their own taste and requirements. With its spacious rooms, practical layout, excellent natural light and generous terrace, the property has huge potential to be transformed into a lovely and comfortable home. Another major advantage is the excellent location in Charodayka South. A bus stop, supermarkets, restaurants, a school, kindergarten and other everyday amenities are all conveniently located nearby. This property is a great option for buyers looking for a permanent home in Ruse, as well as for those searching for an apartment to renovate for future rental. Call us now and arrange a viewing – this apartment is well worth seeing in person!</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Ruse</region>
+        <city>Ruse</city>
+        <area>g.k. Charodeyka - south</area>
+        <address>Charodeyka-yug, Ruse, Bulgaria</address>
+        <postal_code/>
+        <latitude>43.832269</latitude>
+        <longitude>25.977293</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">74500</price>
+      <areas unit="sqm">
+        <built>60</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>3</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>6</floor>
+        <total_floors>8</total_floors>
+        <year_built>1975</year_built>
+        <furnishing>Partly</furnishing>
+        <heating/>
+        <label/>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="no-maintenance-fee">No Maintenance Fee</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>0</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center.JPG</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-4.JPG</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-6.JPG</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-14.JPG</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-17.JPG</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-25.JPG</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-38.JPG</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-40.JPG</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-28-1.JPG</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-45.JPG</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/1-bed-standart-apartment-ruse-charodeyka-center-20.JPG</image>
+      </images>
+    </property>
+    <property>
+      <reference>364548</reference>
+      <source_reference>364548</source_reference>
+      <wordpress_id>364548</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-06T11:13:59+02:00</date_published>
+      <date_modified>2026-10-07T08:56:27+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/1-bedroom-apartment-with-underfloor-heating-sunny-view-central-sunny-beach/</url>
+      <title language="en">1-Bedroom Apartment with Underfloor Heating | Sunny View Central, Sunny Beach</title>
+      <description language="en" format="plain_text">Brand-New Furnished 1-Bedroom Apartment with Underfloor Heating | Sunny View Central, Sunny Beach Example Agency offers for sale this brand-new, fully furnished 1-bedroom apartment in the new 2026 building of Sunny View Central, located in the Fregata / Cacao Beach area of Sunny Beach. Total area: 58 sq.m. Floor: 4ᵗʰ Aspect: East Furnishing: Brand-new, fully furnished and equipped Underfloor heating: Yes Air conditioning: 2 units Maintenance fee: €750 per year (€13/sq.m.) Act 16: Yes Electricity: Residential tariff Beach: approx. 5–7 minutes' walk Layout: living room with fitted kitchen and dining area, separate bedroom, fully equipped bathroom with shower cabin, and terrace. Everything in the apartment is new and ready to use, including the fitted kitchen, appliances and furniture. Underfloor heating and two air conditioners provide additional comfort throughout the year, while the east-facing aspect brings pleasant morning sunlight. Sunny View Central offers: 3 outdoor swimming pools with adult and children's areas Large landscaped grounds Fitness Parking Security and controlled access Year-round operation The beach is only 5–7 minutes on foot, the bus stop is approximately 2 minutes away, and Nessebar can be reached in around 20 minutes on foot. The apartment is an excellent choice for year-round living, holidays or rental investment, with properties in the complex benefiting from demand beyond the summer season. Looking for a brand-new, ready-to-use apartment near Cacao Beach? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Sunny View Central</area>
+        <address>Sunny View Central, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.67411993609759</latitude>
+        <longitude>27.70312112209015</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">109900</price>
+      <areas unit="sqm">
+        <built>58</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>4</floor>
+        <total_floors>6</total_floors>
+        <year_built>2026</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>Hot Offer</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="green-areas">Green areas</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="luxury-property">Luxury property</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="security">Security</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="underfloor-heating">Underfloor Heating</feature>
+        <feature slug="wheelchair-access">Wheelchair access</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>1</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-6.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-5.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-5.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-4.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-2.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-3.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-1.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-4.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-7.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164955-6.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-6.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-7.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-1.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-5.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-1.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-2.jpeg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164957-3.jpeg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-3.jpeg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-4.jpeg</image>
+        <image order="23">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-164956-2.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364519</reference>
+      <source_reference>364519</source_reference>
+      <wordpress_id>364519</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T14:12:20+02:00</date_published>
+      <date_modified>2026-10-05T14:12:20+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-studio-with-balcony-sorrento-sole-mare-sveti-vlas/</url>
+      <title language="en">Furnished Studio with balcony | Sorrento Sole Mare, Sveti Vlas</title>
+      <description language="en" format="plain_text">Furnished Studio with balcony | Sorrento Sole Mare, Sveti Vlas Example Agency is pleased to offer this studio apartment in Sorrento Sole Mare, a modern residential complex located in the peaceful area of Sveti Vlas, between the sea and the mountains. The studio is situated on the 5th floor and has a total area of 39 sq.m. It is suitable for holidays, personal use, or rental investment. Layout: Bright open-plan living area with  kitchen, dining and sleeping zone Bathroom with toilet Balcony The apartment is sold furnished and ready for immediate use. About Sorrento Sole Mare Sorrento Sole Mare is a modern complex located approximately 250 meters from the beach, offering quality construction, landscaped grounds, and a peaceful atmosphere. Complex facilities include: Large swimming pool Children’s pool Landscaped gardens Controlled access Parking Security and maintenance Relaxation areas and walkways The location combines fresh sea air with the unique mountain climate of Sveti Vlas, making it attractive for both holidays and year-round living. Highlights: ✔ Furnished studio ✔ Excellent location ✔ Close to the beach ✔ Suitable for rental income ✔ Great investment opportunity 📞 Contact Example Agency for more information or to arrange a viewing.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Sorento Sole Mare</area>
+        <address>Sorrento Sole Mare, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7119966</latitude>
+        <longitude>27.7453142</longitude>
+      </location>
+      <property_type>
+        <name>Apartment</name>
+        <slug>apartment</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">66500</price>
+      <areas unit="sqm">
+        <built>39</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>1</rooms>
+        <bedrooms>0</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>5</floor>
+        <total_floors>6</total_floors>
+        <year_built>2023</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/sorento-sole-mare-1.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar8.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar9.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar1.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar2.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar5.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar3.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar11.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar7.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar10.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar4.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar6.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/solemar8-1.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/sorento-sole-mare-basen.jpg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/sorento-sole-mare-6.jpg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/sorento-sole-mare-11.jpg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/sorento-sole-mare-14.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364497</reference>
+      <source_reference>364497</source_reference>
+      <wordpress_id>364497</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T13:04:36+02:00</date_published>
+      <date_modified>2026-10-05T13:05:05+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-studio-with-balcony-sunny-view-central-sunny-beach/</url>
+      <title language="en">Furnished Studio with balcony | Sunny View Central, Sunny Beach</title>
+      <description language="en" format="plain_text">Furnished Studio with balcony | Sunny View Central, Sunny Beach Example Agency is pleased to offer this furnished studio apartment, located on the 4th  floor in Sunny View Central complex in Sunny Beach. The apartment has a total area of 30 sq.m and offers a practical layout, making it ideal for holidays, year-round living, or rental investment. Layout: Open-plan room with sleeping and dining areas Kitchenette Bathroom with toilet Terrace The studio is sold furnished and ready to use. About Sunny View Central: Sunny View Central is a well-maintained complex located in a peaceful area of Sunny Beach, within walking distance of the beach and the popular Cacao Beach area. Complex amenities: Two large swimming pools with children’s sections Restaurant and lobby bar Fitness center Children’s playground Controlled access 24/7 security Parking Landscaped gardens Fully furnished Great for holidays or rental income Walking distance to the beach Annual maintenance fee: €13/sq.m Contact Example Agency for more information or to arrange a viewing!</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Sunny View Central</area>
+        <address>Sunny View Central, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.6732976</latitude>
+        <longitude>27.7030943</longitude>
+      </location>
+      <property_type>
+        <name>Apartment</name>
+        <slug>apartment</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">48000</price>
+      <areas unit="sqm">
+        <built>30</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>1</rooms>
+        <bedrooms>0</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>4</floor>
+        <total_floors>6</total_floors>
+        <year_built>2016</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/svc16.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/svc3.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/svc8.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/svc1.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/svc6.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/svc7.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/svc10.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/svc11.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/svc14.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/svc17.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/svc18.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/svc19.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364480</reference>
+      <source_reference>364480</source_reference>
+      <wordpress_id>364480</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T12:22:45+02:00</date_published>
+      <date_modified>2026-10-06T08:09:32+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-1-bedroom-apartment-garden-of-eden-sveti-vlas/</url>
+      <title language="en">Furnished 1-Bedroom Apartment | Garden of Eden, Sveti Vlas</title>
+      <description language="en" format="plain_text">Furnished 1-Bedroom Apartment | Garden of Eden, Sveti Vlas Excellent Investment–A great value property in a well-maintained complex, ideal for holidays, permanent living, or rental investment.   Furnished 1-bedroom apartment in the prestigious Garden of Eden complex, located on the first line in Sveti Vlas, right by the sea. The property is fully furnished and equipped.  Property Details: Total area: 59 sq. m. Floor: third floor Bedrooms: 1 Bathrooms: 1 Furnishing: Fully furnished and equipped Terrace with park view Year of construction: 2013 Act 16: Yes Maintenance fee: 1,350 EUR/year  Garden of Eden Complex Amenities: 7 outdoor pools with children’s sections Indoor pool 4 bars, 3 restaurants serving international cuisine Fitness center and SPA center Tennis court Free underground parking on 4 levels Gated complex with 24/7 security and management Viewings available at any time, including weekends.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Garden of Eden</area>
+        <address>Garden of Eden, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7078728</latitude>
+        <longitude>27.7780015</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">121000</price>
+      <areas unit="sqm">
+        <built>59</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>3</floor>
+        <total_floors>6</total_floors>
+        <year_built>2013</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>No commission</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="1-st-line-to-the-beach">First line to the beach</feature>
+        <feature slug="green-areas">Green areas</feature>
+        <feature slug="gym">Gym</feature>
+        <feature slug="indoor-swimming-pool">Indoor swimming pool</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="security">Security</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="spa">SPA</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="underground-parking">Underground Parking</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>0</elevator>
+        <parking>0</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>0</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/354213.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/354207.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/354206.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/354192.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/354193.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/354208.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/354199.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/354194.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/354195.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/354196.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/354197.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/354198.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/354202.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/354203.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/354204.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/354205.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/354209.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/354211.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/354200.jpeg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/354201.jpeg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/354212.jpeg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/354215.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364457</reference>
+      <source_reference>364457</source_reference>
+      <wordpress_id>364457</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T10:40:52+02:00</date_published>
+      <date_modified>2026-10-05T10:40:52+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/furnished-studio-300-m-to-the-the-beach-vista-del-mar-2-sveti-vlas/</url>
+      <title language="en">Furnished Studio 300 m. to the the Beach | Vista Del Mar 2, Sveti Vlas</title>
+      <description language="en" format="plain_text">Furnished Studio 300 m. to the the Beach | Vista Del Mar 2, Sveti Vlas Example Agency offers for sale a spacious property located on the 2nd floor in Vista Del Mar 2, Sveti Vlas, located approximately 300 meters from the beach. The studio is 32 sq. m. –  comfortably arranged and suitable for holidays, year-round living or rental investment. Apartment Layout: Entrance hallway Living room with kitchen, dining and sleeping area Bathroom This property is providing comfort and functionality in a well-developed seaside resort. Property Details: Approximately 300 meters from the beach Fully furnished Elevator Act 16 Year of construction: 2010 (approx.) Annual maintenance fee: €10/sq.m. Vista Del Mar 2 is a well-maintained gated complex in Sveti Vlas, benefiting from the combination of sea and mountain climate. Facilities include beautifully landscaped grounds with greenery, an outdoor swimming pool for adults, a separate children’s pool, sunbathing areas with loungers and umbrellas, a pool bar, on-site restaurant with varied menu, shops for daily needs, fitness center, sauna and jacuzzi, panoramic terrace with mountain and sea views, room service, secured parking, 24-hour security, and video surveillance with controlled access. Contact Example Agency for more information or to arrange a viewing.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Vista Del Mar 2</area>
+        <address>Vista Del Mar 2, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7119803</latitude>
+        <longitude>27.7366993</longitude>
+      </location>
+      <property_type>
+        <name>Apartment</name>
+        <slug>apartment</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">55000</price>
+      <areas unit="sqm">
+        <built>32</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>1</rooms>
+        <bedrooms>0</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>6</total_floors>
+        <year_built/>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/283686.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/326664.jpg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/326663.jpg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/326661.jpg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/326662.jpg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/326665.jpg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/326666.jpg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/326668.jpg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/326667.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364445</reference>
+      <source_reference>364445</source_reference>
+      <wordpress_id>364445</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T10:09:15+02:00</date_published>
+      <date_modified>2026-10-05T10:24:03+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/ground-floor-2-bedroom-2-bathroom-apartment-in-harmony-suites-monte-carlo-sunny-beach/</url>
+      <title language="en">Ground floor 2-Bedroom, 2-Bathroom Apartment in Harmony Suites Monte Carlo | Sunny Beach</title>
+      <description language="en" format="plain_text">Ground floor 2-Bedroom, 2-Bathroom Apartment in Harmony Suites Monte Carlo | Sunny Beach Example Agency is pleased to offer this two-bedroom apartment located on the ground floor in Harmony Suites Monte Carlo. The complex is designed and inspired by the majestic architecture of Monte Carlo. This is residential complex consisting of three separate buildings (4, 5, 6), two of them – connected by an impressive arch. Harmony Suites Monte Carlo is located in the peaceful and quiet part of Sunny Beach, only 300 m from the beach and on walking distance to the center of the resort. The advantage of the complex is its spacious green areas with many relax zones, children’s playgrounds and mini aqua park, cinema, dancing fountains, etc. The beautiful SPA center is designed to be the pearl of HARMONY SUITES Spa &amp; Wellness Club. There is indoor swimming pool, Jacuzzi, sauna, hamam (Turkish bath), Finnish sauna, salt lake, massage capsules, cosmetics, etc. The total size of the apartment is 100 sq.m. and it is for sale fully furnished. It consists of an entrance hall, a living room with kitchen and dining area, 2 bedrooms, 2 bathrooms with toilet and a balcony. The apartment is in excellent condition and it is suitable for permanent living and holidays/renting out. Services and amenities in Harmony Suites Monte Carlo, Sunny Beach: – Spacious territory for walking and relaxation with dancing fountains – Reception in a separate building with a hall for relaxation – 36 meter swimming pool – Swimming pool in a “Butterfly” shape – Mini children’s aqua park and children’s swimming pool – Children’s playgrounds with a pirate boat – Pool bar – Outdoor Jacuzzi – Outdoor and indoor relax zones with arbors and pavilions – Luxury SPA center – Indoor heated swimming pool – Massage relax capsules – Massage room – Indoor Jacuzzi – Hammam (Turkish bath) – Finnish Bath and shock douche – Salty lake – Fireplace hall – Library and relaxation hall – 24/7 Security and CCTV – Wi-Fi on the territory of the whole complex – Satellite TV – Cinema Annual maintenance fee: 22 EUR/sq.m.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Harmony Suites</area>
+        <address>Harmony Suites Monte Carlo, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7060105</latitude>
+        <longitude>27.7144222</longitude>
+      </location>
+      <property_type>
+        <name>2-bedroom</name>
+        <slug>2_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">150000</price>
+      <areas unit="sqm">
+        <built>100</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>3</rooms>
+        <bedrooms>2</bedrooms>
+        <bathrooms>2</bathrooms>
+        <showers/>
+        <floor>1</floor>
+        <total_floors>6</total_floors>
+        <year_built>2015</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>buy-to-let</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="indoor-swimming-pool">Indoor swimming pool</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="luxury-property">Luxury property</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="restaurant">Restaurant</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="spa">SPA</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/48568469.jpg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/54644251.jpg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/330329.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/330315.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/330314.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/330313.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/330316.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/330317.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/330318.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/330336.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/330319.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/330311.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/330320.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/330321.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/330322.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/330323.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/330324.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/330325.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/330326.jpeg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/330312.jpeg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/330327.jpeg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/330328.jpeg</image>
+        <image order="23">https://www.example-agency.bg/wp-content/uploads/2026/10/330330.jpeg</image>
+        <image order="24">https://www.example-agency.bg/wp-content/uploads/2026/10/330331.jpeg</image>
+        <image order="25">https://www.example-agency.bg/wp-content/uploads/2026/10/330332.jpeg</image>
+        <image order="26">https://www.example-agency.bg/wp-content/uploads/2026/10/330333.jpeg</image>
+        <image order="27">https://www.example-agency.bg/wp-content/uploads/2026/10/330334.jpeg</image>
+        <image order="28">https://www.example-agency.bg/wp-content/uploads/2026/10/330335.jpeg</image>
+        <image order="29">https://www.example-agency.bg/wp-content/uploads/2026/10/89845.jpg</image>
+        <image order="30">https://www.example-agency.bg/wp-content/uploads/2026/10/475841.jpg</image>
+        <image order="31">https://www.example-agency.bg/wp-content/uploads/2026/10/486476.jpg</image>
+        <image order="32">https://www.example-agency.bg/wp-content/uploads/2026/10/496454.jpg</image>
+        <image order="33">https://www.example-agency.bg/wp-content/uploads/2026/10/4645614.jpg</image>
+        <image order="34">https://www.example-agency.bg/wp-content/uploads/2026/10/4897234.jpg</image>
+        <image order="35">https://www.example-agency.bg/wp-content/uploads/2026/10/45653221.jpg</image>
+        <image order="36">https://www.example-agency.bg/wp-content/uploads/2026/10/46856886.jpg</image>
+        <image order="37">https://www.example-agency.bg/wp-content/uploads/2026/10/47843241.jpg</image>
+        <image order="38">https://www.example-agency.bg/wp-content/uploads/2026/10/48477684.jpg</image>
+        <image order="39">https://www.example-agency.bg/wp-content/uploads/2026/10/48936468.jpg</image>
+        <image order="40">https://www.example-agency.bg/wp-content/uploads/2026/10/065484541.jpg</image>
+        <image order="41">https://www.example-agency.bg/wp-content/uploads/2026/10/4897473647.jpg</image>
+        <image order="42">https://www.example-agency.bg/wp-content/uploads/2026/10/41664314548.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364400</reference>
+      <source_reference>364400</source_reference>
+      <wordpress_id>364400</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-05T09:08:55+02:00</date_published>
+      <date_modified>2026-10-06T11:07:09+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/studio-for-sale-sunny-day-4-sunny-beach/</url>
+      <title language="en">Studio for Sale | Sunny Day 4, Sunny Beach</title>
+      <description language="en" format="plain_text">Studio for Sale | Sunny Day 4, Sunny Beach Example Agency offers for sale a furnished studio in Sunny Day 4, Sunny Beach. The apartment is located on the 2nd floor and has a total area of 29 sq.m. and is suitable for holidays, year-round use, or rental investment. Layout: Living room with kitchen and dining area Bathroom with toilet The property is sold furnished and ready to use. Amenities in Sunny Day 4: Swimming pool with children’s section Parking for owners Controlled access and security Annual maintenance fee: €580. Contact Example Agency for more information or to arrange a viewing.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Sunny Day 4</area>
+        <address>Sunny Day 4 Complex, Sunny Beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.67666860000001</latitude>
+        <longitude>27.6985164</longitude>
+      </location>
+      <property_type>
+        <name>Apartment</name>
+        <slug>apartment</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">36000</price>
+      <areas unit="sqm">
+        <built>29</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>1</rooms>
+        <bedrooms>0</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>2</floor>
+        <total_floors>4</total_floors>
+        <year_built>2008</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>Bargain</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="electricity">Electricity</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="ready-to-move-in">Ready to Move In</feature>
+        <feature slug="rental-potential">Rental Potential</feature>
+        <feature slug="shop-supermarket">Shop / Supermarket</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="water">Water</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>0</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>0</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-7.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-6.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-3.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-1.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-8.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-2.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-4.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-5.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008-9.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-132008.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364309</reference>
+      <source_reference>364309</source_reference>
+      <wordpress_id>364309</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-02T14:35:11+02:00</date_published>
+      <date_modified>2026-10-06T12:55:40+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/studio-with-no-maintenance-fee-250-m-from-the-beach-sveti-vlas/</url>
+      <title language="en">Studio with NO Maintenance Fee – 250 m from the Beach | Sveti Vlas</title>
+      <description language="en" format="plain_text">Studio with NO Maintenance Fee – 250 m from the Beach | Sveti Vlas Example Agency offers for sale this spacious studio with no annual maintenance fee in Sveti Vlas, only 250–300 metres from the beach. Total area: 38.90 sq.m. Floor: 1ˢᵗ Maintenance fee: None Beach: approx. 250–300 m The studio offers a comfortable living space and is an attractive option for buyers looking for a seaside property with low annual ownership costs. The location provides easy access to the beach and the amenities of Sveti Vlas, making the property suitable for holidays, year-round living or rental. Looking for a property close to the sea without a maintenance fee? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sveti Vlas</city>
+        <area>Alfa</area>
+        <address>Alfa, Sveti Vlas, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.7115629</latitude>
+        <longitude>27.766229</longitude>
+      </location>
+      <property_type>
+        <name>Apartment</name>
+        <slug>apartment</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">56900</price>
+      <areas unit="sqm">
+        <built>39</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>1</rooms>
+        <bedrooms>0</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>1</floor>
+        <total_floors>4</total_floors>
+        <year_built>2009</year_built>
+        <furnishing>No</furnishing>
+        <heating/>
+        <label>No commission</label>
+      </details>
+      <features>
+        <feature slug="internet">Internet</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+      </features>
+      <flags>
+        <pool>0</pool>
+        <elevator>0</elevator>
+        <parking>0</parking>
+        <garage>0</garage>
+        <air_conditioning>0</air_conditioning>
+        <security>0</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/00.png</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915-4.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190914-1.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190914-2.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190914-3.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190914.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915-3.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915-1.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915-5.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-11-at-190915-6.jpeg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364297</reference>
+      <source_reference>364297</source_reference>
+      <wordpress_id>364297</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-02T14:19:00+02:00</date_published>
+      <date_modified>2026-10-02T14:19:00+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/1-bedroom-apartment-with-sea-view-low-maintenance-fee-villa-brigantina-ravda/</url>
+      <title language="en">1-Bedroom Apartment with Sea View &amp;#038; Low Maintenance Fee | Villa Brigantina, Ravda</title>
+      <description language="en" format="plain_text">1-Bedroom Apartment with Sea View &amp; Low Maintenance Fee | Villa Brigantina, Ravda Example Agency offers for sale this 1-bedroom apartment with sea view in Villa Brigantina, Ravda, conveniently located close to the beach and local amenities. Total area: 51 sq.m. Floor: 3ʳᵈ Bedrooms: 1 View: Sea Year of construction: 2012 Maintenance fee: only €150 per year Layout: living room with kitchen and dining area, separate bedroom, bathroom with toilet, and balcony. The combination of sea view, proximity to the beach and very low annual maintenance fee makes the apartment an attractive option for holidays, longer stays or rental investment. Interested? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Ravda</city>
+        <area>Villa Brigantina</area>
+        <address>Villa Brigantina, Ravda, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.6412917</latitude>
+        <longitude>27.6794445</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">89000</price>
+      <areas unit="sqm">
+        <built>51</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>3</floor>
+        <total_floors>6</total_floors>
+        <year_built>2012</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label/>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="low-maintenance-fee">Low maintenance fee</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+      </features>
+      <flags>
+        <pool>0</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>0</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-7.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134559-1.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134559-3.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-9.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134559.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-8.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-1.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134601.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134601-2.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134601-3.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-6.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-5.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-3.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-10.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134559-2.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-4.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-134600-2.jpeg</image>
+        <image order="19">https://www.example-agency.bg/wp-content/uploads/2026/10/00.jpg</image>
+        <image order="20">https://www.example-agency.bg/wp-content/uploads/2026/10/318445.jpg</image>
+        <image order="21">https://www.example-agency.bg/wp-content/uploads/2026/10/318451.jpg</image>
+        <image order="22">https://www.example-agency.bg/wp-content/uploads/2026/10/318473.jpg</image>
+        <image order="23">https://www.example-agency.bg/wp-content/uploads/2026/10/318475.jpg</image>
+      </images>
+    </property>
+    <property>
+      <reference>364271</reference>
+      <source_reference>364271</source_reference>
+      <wordpress_id>364271</wordpress_id>
+      <status>active</status>
+      <transaction_type>sale</transaction_type>
+      <date_published>2026-10-02T14:09:45+02:00</date_published>
+      <date_modified>2026-10-05T08:17:14+02:00</date_modified>
+      <url>https://www.example-agency.bg/property/south-facing-1-bedroom-apartment-with-park-view-avalon-sunny-beach/</url>
+      <title language="en">South-Facing 1-Bedroom Apartment with Park View | Avalon, Sunny Beach</title>
+      <description language="en" format="plain_text">South-Facing 1-Bedroom Apartment with Park View | Avalon, Sunny Beach Example Agency offers for sale this 1-bedroom apartment with park view and south-facing aspect in Avalon, Sunny Beach. The apartment is an internal unit, benefiting from a warmer and more comfortable position within the building. Total area: 63 sq.m. Floor: 5ᵗʰ, not top floor Bedrooms: 1 Aspect: South View: Park Act 16: Yes Documents: Ready for transaction Layout: living room with kitchen and dining area, separate non-transitional bedroom, bathroom with toilet, and balcony. The southern exposure provides plenty of natural light, while the park view creates a more peaceful atmosphere. The property is suitable for holidays, longer stays or rental investment. Parking is available next to the building. The documents are ready for a quick transaction. Interested? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <location>
+        <country>Bulgaria</country>
+        <country_code>BG</country_code>
+        <region>Burgas</region>
+        <city>Sunny Beach</city>
+        <area>Avalon</area>
+        <address>Apart Hotel AVALON, Sunny beach, Bulgaria</address>
+        <postal_code/>
+        <latitude>42.6838845</latitude>
+        <longitude>27.7042405</longitude>
+      </location>
+      <property_type>
+        <name>1-Bedroom</name>
+        <slug>1_bedroom</slug>
+      </property_type>
+      <price currency="EUR" frequency="sale">67500</price>
+      <areas unit="sqm">
+        <built>63</built>
+        <plot/>
+      </areas>
+      <details>
+        <rooms>2</rooms>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <showers/>
+        <floor>5</floor>
+        <total_floors>6</total_floors>
+        <year_built>2008</year_built>
+        <furnishing>Yes</furnishing>
+        <heating/>
+        <label>Bargain</label>
+      </details>
+      <features>
+        <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
+        <feature slug="elevator">Elevator</feature>
+        <feature slug="internet">Internet</feature>
+        <feature slug="low-maintenance-fee">Low maintenance fee</feature>
+        <feature slug="near-sea">Near Sea</feature>
+        <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="parking">Parking</feature>
+        <feature slug="suitable-for-investment">Suitable for Investment</feature>
+        <feature slug="suitable-for-year-round-living">Suitable for Year-round Living</feature>
+        <feature slug="swimming-pool">Swimming Pool</feature>
+        <feature slug="wheelchair-access">Wheelchair access</feature>
+      </features>
+      <flags>
+        <pool>1</pool>
+        <elevator>1</elevator>
+        <parking>1</parking>
+        <garage>0</garage>
+        <air_conditioning>1</air_conditioning>
+        <security>1</security>
+        <wheelchair_access>1</wheelchair_access>
+        <on_the_beach>1</on_the_beach>
+        <near_sea>1</near_sea>
+      </flags>
+      <images>
+        <image order="1">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135616-1.jpeg</image>
+        <image order="2">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135615-3.jpeg</image>
+        <image order="3">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135616.jpeg</image>
+        <image order="4">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135614-1.jpeg</image>
+        <image order="5">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135611-1.jpeg</image>
+        <image order="6">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135614.jpeg</image>
+        <image order="7">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135613-2.jpeg</image>
+        <image order="8">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135613.jpeg</image>
+        <image order="9">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135615-1.jpeg</image>
+        <image order="10">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135612-2.jpeg</image>
+        <image order="11">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135612-1.jpeg</image>
+        <image order="12">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135611-2.jpeg</image>
+        <image order="13">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135614-2.jpeg</image>
+        <image order="14">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135613-1.jpeg</image>
+        <image order="15">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135611.jpeg</image>
+        <image order="16">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135612.jpeg</image>
+        <image order="17">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135615.jpeg</image>
+        <image order="18">https://www.example-agency.bg/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-135615-2.jpeg</image>
+      </images>
+    </property>
+  </properties>
+</feed>
