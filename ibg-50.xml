@@ -35,7 +35,7 @@
         <name>2-bedroom</name>
         <slug>2_bedroom</slug>
       </property_type>
-      <price currency="EUR" frequency="sale">109900</price>
+      <price currency="EUR" frequency="sale">112900</price>
       <areas unit="sqm">
         <built>81</built>
         <plot/>
@@ -137,7 +137,7 @@
         <plot/>
       </areas>
       <details>
-        <rooms>2</rooms>
+        <rooms>3</rooms>
         <bedrooms>1</bedrooms>
         <bathrooms>1</bathrooms>
         <showers/>
@@ -197,7 +197,7 @@
       <date_modified>2026-09-03T10:07:08+02:00</date_modified>
       <url>https://ibgrealestates.com/property/furnished-studio-with-pool-view-casa-rossa-sunny-beach-2/</url>
       <title language="en">Furnished Studio with Pool View | Casa Rossa, Sunny Beach</title>
-      <description language="en" format="plain_text">Furnished Studio with Pool View | Casa Rossa, Sunny Beach IBG Real Estates offers for sale a furnished studio with pool view in Casa Rossa, situated in a quiet area of Sunny Beach, around 600–700 meters from the beach. The apartment has a total area of 33 sq.m. and is located on the 5ᵗʰ floor with elevator. It is sold furnished and ready for use. Property Details: Area: 33 sq.m. 5ᵗʰ floor Elevator Pool view Furnished Act 16 Year of construction: 2014 (approx.) Maintenance fee: €12/sq.m. per year Casa Rossa offers an outdoor swimming pool with children's section, relaxation area, landscaped grounds, playground, parking and controlled access/security. A good choice for a holiday home, year-round use or rental investment in Sunny Beach. Contact IBG Real Estates for more information or a viewing.</description>
+      <description language="en" format="plain_text">Furnished Studio with Pool View | Casa Rossa, Sunny Beach IBG Real Estates offers for sale a furnished studio with pool view in Casa Rossa, situated in a quiet area of Sunny Beach, around 600–700 meters from the beach. The apartment has a total area of 33 sq.m. and is located on the 5ᵗʰ floor with elevator. It is sold furnished and ready for use. Property Details: Area: 33 sq.m. 5ᵗʰ floor Elevator Pool view Furnished Act 16 Year of construction: 2014 (approx.) Maintenance fee: €12/sq.m. per year Casa Rossa offers an outdoor swimming pool with children's section, relaxation area, landscaped grounds, playground, parking and controlled access/security. A good choice for a holiday home, year-round use or rental investment in Sunny Beach. Contact IBG Real Estates for more information or a viewing. TEST 2: the description changed again on 2026-10-20.</description>
       <location>
         <country>Bulgaria</country>
         <country_code>BG</country_code>
@@ -335,8 +335,8 @@
         <near_sea>0</near_sea>
       </flags>
       <images>
-        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-I6esntlhX8vuHMUw.jpg</image>
-        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-FHTrgtEcGy6Vma35.jpg</image>
+        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-FHTrgtEcGy6Vma35.jpg</image>
+        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-I6esntlhX8vuHMUw.jpg</image>
         <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-6jASzCQ3n1wFgeWJ.jpg</image>
         <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-fkw1wr7JsAsVBOqJ.jpg</image>
         <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/09/kosharitsa-bulgaria-2-bedroom-apartment-golden-eye-Ef2GYaH8jqZ6hKmr.jpg</image>
@@ -4291,34 +4291,34 @@
       </images>
     </property>
     <property>
-      <reference>360449</reference>
-      <source_reference>360449</source_reference>
-      <wordpress_id>360449</wordpress_id>
+      <reference>360436</reference>
+      <source_reference>360436</source_reference>
+      <wordpress_id>360436</wordpress_id>
       <status>active</status>
       <transaction_type>sale</transaction_type>
-      <date_published>2026-08-21T11:03:13+02:00</date_published>
-      <date_modified>2026-08-21T12:40:54+02:00</date_modified>
-      <url>https://ibgrealestates.com/property/excellent-studio-for-sale-sweet-homes-2-sunny-beach/</url>
-      <title language="en">Excellent studio For sale | Sweet Homes 2, Sunny Beach</title>
-      <description language="en" format="plain_text">Excellent studio For sale | Sweet Homes 2, Sunny Beach For sale is a luxurious studio apartment, located on the ground floor in Sweet Homes 2. The complex is located in the central part of the Sunny Beach, in a quiet area, close to the Aqua Patk, Supermarket MM, restaurants and other amenities. Sweet Homes 2 is about 800 meters from the beach /10 minutes walk/. The total area of the studio is 45 sq.m. and it consists of a living room with kitchen and dining area, sleeping area, a big balcony and a bathroom with shower cabin toilet and sink. The studio is for sale furnished as it is on the pictures. The apartment is fully equipped with high quality furniture and appliances. It is for sale as it is on the pictures. Sweet Homes 2, Sunny Beach offers: – Outdoor swimming pool for adults and children – A unique area for rest and relaxation on the roof – SPA center with massage room, sauna, steam room, shower room, ice room and Jacuzzi – Fitness Centre – 24-hour year-round security and video surveillance in the complex – Firefighting system – Amphitheatre – Lobby bar – Playground and room – Parking places Maintenance fee – 17 €/sq.m.</description>
+      <date_published>2026-08-21T09:50:15+02:00</date_published>
+      <date_modified>2026-08-21T12:40:37+02:00</date_modified>
+      <url>https://ibgrealestates.com/property/furnished-studio-with-pool-view-for-sale-gerber-residence-2-sunny-beach/</url>
+      <title language="en">Furnished Studio with Pool View for Sale | Gerber Residence 2, Sunny Beach</title>
+      <description language="en" format="plain_text">Furnished Studio with Pool View for Sale | Gerber Residence 2, Sunny Beach IBG Real Estates offers for sale a furnished studio with pool view in Gerber Residence 2, a well-maintained complex in Sunny Beach. The studio has a total area of 30 sq.m. and is situated on the 5th floor. It is offered furnished and equipped, making it a practical choice for summer holidays, personal use, or rental investment. Property Details: Total area: 30 sq.m. Floor: 5 View: Swimming pool Furnished and equipped Ready to use or rent out Layout: Open-plan living and sleeping area Kitchenette Bathroom with shower and toilet Balcony overlooking the swimming pool Gerber Residence 2, Sunny Beach Gerber Residence 2 is a gated holiday complex situated in a convenient area of Sunny Beach, with easy access to the beach and the resort’s everyday amenities. Supermarkets, shops, restaurants, cafés and public transport can be found nearby. Complex Amenities: ✔ Outdoor swimming pool ✔ Children’s section ✔ Sunbathing and relaxation area ✔ Landscaped common areas ✔ Elevator ✔ Controlled access ✔ Security and maintenance The location makes the apartment suitable not only as an affordable holiday home by the Black Sea but also as a property with good rental potential during the summer season. Why Buy This Studio? ✔ Pool view ✔ Furnished and ready to use ✔ Compact and easy-to-maintain property ✔ Popular Sunny Beach location ✔ Suitable for holidays or rental investment Contact IBG Real Estates for more information or to arrange a viewing</description>
       <location>
         <country>Bulgaria</country>
         <country_code>BG</country_code>
         <region>Burgas</region>
         <city>Sunny Beach</city>
-        <area>Sweet Homes 2</area>
-        <address>Sweet Homes 2, Sunny Beach, Bulgaria</address>
+        <area>Elit 2</area>
+        <address>Gerber Residence 2, Sunny Beach, Bulgaria</address>
         <postal_code/>
-        <latitude>42.6995551</latitude>
-        <longitude>27.7069825</longitude>
+        <latitude>42.6813046</latitude>
+        <longitude>27.7022758</longitude>
       </location>
       <property_type>
         <name>Apartment</name>
         <slug>apartment</slug>
       </property_type>
-      <price currency="EUR" frequency="sale">69000</price>
+      <price currency="EUR" frequency="sale">52500</price>
       <areas unit="sqm">
-        <built>45</built>
+        <built>30</built>
         <plot/>
       </areas>
       <details>
@@ -4326,8 +4326,8 @@
         <bedrooms>0</bedrooms>
         <bathrooms>1</bathrooms>
         <showers/>
-        <floor>1</floor>
-        <total_floors>6</total_floors>
+        <floor>5</floor>
+        <total_floors>5</total_floors>
         <year_built/>
         <furnishing>Yes</furnishing>
         <heating/>
@@ -4335,15 +4335,10 @@
       </details>
       <features>
         <feature slug="air-conditioning">Air Conditioning</feature>
-        <feature slug="controlled-access">Controlled access</feature>
         <feature slug="electricity">Electricity</feature>
         <feature slug="elevator">Elevator</feature>
         <feature slug="green-areas">Green areas</feature>
-        <feature slug="gym">Gym</feature>
         <feature slug="internet">Internet</feature>
-        <feature slug="near-sea">Near Sea</feature>
-        <feature slug="shop-supermarket">Shop / Supermarket</feature>
-        <feature slug="spa">SPA</feature>
         <feature slug="swimming-pool">Swimming Pool</feature>
         <feature slug="water">Water</feature>
       </features>
@@ -4353,22 +4348,23 @@
         <parking>0</parking>
         <garage>0</garage>
         <air_conditioning>1</air_conditioning>
-        <security>1</security>
+        <security>0</security>
         <wheelchair_access>0</wheelchair_access>
         <on_the_beach>0</on_the_beach>
-        <near_sea>1</near_sea>
+        <near_sea>0</near_sea>
       </flags>
       <images>
-        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/08/000-2-scaled.jpg</image>
-        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/08/005-3.jpg</image>
-        <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/08/001-3.jpg</image>
-        <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/08/004-3.jpg</image>
-        <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/08/002-3.jpg</image>
-        <image order="6">https://ibgrealestates.com/wp-content/uploads/2026/08/003-3.jpg</image>
-        <image order="7">https://ibgrealestates.com/wp-content/uploads/2026/08/006-3.jpg</image>
-        <image order="8">https://ibgrealestates.com/wp-content/uploads/2026/08/007-3.jpg</image>
-        <image order="9">https://ibgrealestates.com/wp-content/uploads/2026/08/008-2.jpg</image>
-        <image order="10">https://ibgrealestates.com/wp-content/uploads/2026/08/009-2.jpg</image>
+        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/08/010-1.jpg</image>
+        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/08/007-2.jpg</image>
+        <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/08/004-2.jpg</image>
+        <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/08/002-2.jpg</image>
+        <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/08/008-1.jpg</image>
+        <image order="6">https://ibgrealestates.com/wp-content/uploads/2026/08/009-1.jpg</image>
+        <image order="7">https://ibgrealestates.com/wp-content/uploads/2026/08/003-2.jpg</image>
+        <image order="8">https://ibgrealestates.com/wp-content/uploads/2026/08/001-2.jpg</image>
+        <image order="9">https://ibgrealestates.com/wp-content/uploads/2026/08/005-2.jpg</image>
+        <image order="10">https://ibgrealestates.com/wp-content/uploads/2026/08/006-2.jpg</image>
+        <image order="11">https://ibgrealestates.com/wp-content/uploads/2026/08/000-1.jpg</image>
       </images>
     </property>
   </properties>
