@@ -35,7 +35,7 @@
         <name>1-Bedroom</name>
         <slug>1_bedroom</slug>
       </property_type>
-      <price currency="EUR" frequency="sale">119000</price>
+      <price currency="EUR" frequency="sale">124000</price>
       <areas unit="sqm">
         <built>67</built>
         <plot/>
@@ -130,7 +130,7 @@
       </property_type>
       <price currency="EUR" frequency="sale">98000</price>
       <areas unit="sqm">
-        <built>52</built>
+        <built>59</built>
         <plot/>
       </areas>
       <details>
@@ -223,7 +223,7 @@
         <plot/>
       </areas>
       <details>
-        <rooms>3</rooms>
+        <rooms>4</rooms>
         <bedrooms>2</bedrooms>
         <bathrooms>2</bathrooms>
         <showers/>
@@ -337,7 +337,7 @@
       <details>
         <rooms>2</rooms>
         <bedrooms>1</bedrooms>
-        <bathrooms>1</bathrooms>
+        <bathrooms>2</bathrooms>
         <showers/>
         <floor>2</floor>
         <total_floors>4</total_floors>
@@ -401,7 +401,7 @@
       <date_modified>2026-10-07T12:01:25+02:00</date_modified>
       <url>https://ibgrealestates.com/property/spacious-2-bedroom-apartment-with-sea-view-etara-4-sveti-vlas/</url>
       <title language="en">Spacious 2-Bedroom Apartment with Sea View | Etara 4, Sveti Vlas</title>
-      <description language="en" format="plain_text">Spacious 2-Bedroom Apartment with Sea View | Etara 4, Sveti Vlas IBG Real Estates offers for sale this spacious furnished 2-bedroom apartment with sea view in Etara 4, Sveti Vlas. Total area: 115 sq.m. Floor: 1st Bedrooms: 2 View: Sea Furnishing: Furnished Maintenance fee: €12/sq.m. per year With a generous area of 115 sq.m., the apartment offers plenty of comfortable living space and is suitable for holidays, longer stays or rental investment. Etara 4 is located in the prestigious Dinevi Resort area of Sveti Vlas, close to the beach and Marina Dinevi. The location provides easy access to restaurants, shops and seaside amenities. Interested in this spacious sea-view apartment? Get in touch and we'll arrange a viewing at a convenient time.</description>
+      <description language="en" format="plain_text">Spacious 2-Bedroom Apartment with Sea View | Etara 4, Sveti Vlas IBG Real Estates offers for sale this spacious furnished 2-bedroom apartment with sea view in Etara 4, Sveti Vlas. Total area: 115 sq.m. Floor: 1st Bedrooms: 2 View: Sea Furnishing: Furnished Maintenance fee: €12/sq.m. per year With a generous area of 115 sq.m., the apartment offers plenty of comfortable living space and is suitable for holidays, longer stays or rental investment. Etara 4 is located in the prestigious Dinevi Resort area of Sveti Vlas, close to the beach and Marina Dinevi. The location provides easy access to restaurants, shops and seaside amenities. Interested in this spacious sea-view apartment? Get in touch and we'll arrange a viewing at a convenient time. TEST: description changed in the feed on 2026-10-19.</description>
       <location>
         <country>Bulgaria</country>
         <country_code>BG</country_code>
@@ -499,7 +499,7 @@
         <region>Ruse</region>
         <city>Ruse</city>
         <area>g.k. Druzhba 2</area>
-        <address>g.k. Druzhba 2, Ruse, Bulgaria</address>
+        <address>Test Street 42, g.k. Druzhba 2, Ruse, Bulgaria</address>
         <postal_code/>
         <latitude>43.85274112706289</latitude>
         <longitude>26.02178380212401</longitude>
@@ -572,7 +572,7 @@
         <country_code>BG</country_code>
         <region>Burgas</region>
         <city>Sveti Vlas</city>
-        <area>Garden of Eden</area>
+        <area>Test Quarter</area>
         <address>Garden of Eden, Sveti Vlas, Bulgaria</address>
         <postal_code/>
         <latitude>42.7080686</latitude>
@@ -711,8 +711,8 @@
         <near_sea>0</near_sea>
       </flags>
       <images>
-        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay2.jpeg</image>
-        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay1.jpeg</image>
+        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay1.jpeg</image>
+        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay2.jpeg</image>
         <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay11.jpeg</image>
         <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay3.jpeg</image>
         <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/10/south-bay4.jpeg</image>
@@ -8924,34 +8924,34 @@
       </images>
     </property>
     <property>
-      <reference>361993</reference>
-      <source_reference>361993</source_reference>
-      <wordpress_id>361993</wordpress_id>
+      <reference>361974</reference>
+      <source_reference>361974</source_reference>
+      <wordpress_id>361974</wordpress_id>
       <status>active</status>
       <transaction_type>sale</transaction_type>
-      <date_published>2026-09-03T18:53:51+02:00</date_published>
-      <date_modified>2026-09-03T18:55:03+02:00</date_modified>
-      <url>https://ibgrealestates.com/property/spacious-2-bedroom-apartment-darius-apartment-8/</url>
-      <title language="en">Spacious 2-Bedroom Apartment | Darius, Apartment 8</title>
-      <description language="en" format="plain_text">Spacious 2-Bedroom Apartment | Darius, Apartment 8 IBG Real Estates offers for sale a spacious 2-bedroom apartment in Darius, Apartment №8, with north-east orientation. The apartment has a total area of 81 sq.m. and is located on the 3ʳᵈ floor. Layout: entrance hall, living room with kitchen area, terrace, 2 bedrooms and a bathroom with shower, sink and toilet. Property Details: Apartment №8 Area: 81 sq.m. 3ʳᵈ floor 2 bedrooms North-east orientation Terrace Maintenance fee: €770/year  A spacious and practical property, suitable for personal use, holidays or rental investment. Contact IBG Real Estates for more information or a viewing.</description>
+      <date_published>2026-09-03T18:16:32+02:00</date_published>
+      <date_modified>2026-10-04T06:54:59+02:00</date_modified>
+      <url>https://ibgrealestates.com/property/2-bedroom-apartment-with-view-to-sea-beach-sunset-resort-pomorie/</url>
+      <title language="en">2-Bedroom Apartment with View to Sea &amp;#038; Beach | Sunset Resort, Pomorie</title>
+      <description language="en" format="plain_text">2-Bedroom Apartment with View to Sea &amp; Beach | Sunset Resort, Pomorie IBG Real Estates offers for sale a spacious 2-bedroom apartment with beautiful sea and beach views in Building E of Sunset Resort, one of the best-known beachfront complexes in Pomorie. The apartment has a total area of 84 sq.m. and is situated on the 4th floor. A special highlight is the terrace overlooking the sea and sandy beach - close enough to hear the sound of the waves while relaxing outside. Layout: entrance hall, spacious living room, separate kitchen, terrace with sea and beach view, 2 bedrooms and a large bathroom with bathtub, shower cabin, toilet and sink. Property Details: Area: 84 sq.m. 4th floor 2 bedrooms Sea and beach view Terrace Separate kitchen Spacious bathroom with bathtub and shower Furnished as shown in the photos Needs some refreshing Maintenance fee: €22/sq.m. per year Sunset Resort is a large beachfront complex with direct access to the sandy beach in Pomorie. The apartment needs some cosmetic refreshing, but its excellent price, generous size and location so close to the sea make it a very attractive opportunity for a holiday home or investment. Contact IBG Real Estates for more information or a viewing.</description>
       <location>
         <country>Bulgaria</country>
         <country_code>BG</country_code>
         <region>Burgas</region>
-        <city>Sunny Beach</city>
-        <area>Darius</area>
-        <address>Hotel Darius, Sunny beach, Bulgaria</address>
+        <city>Pomorie</city>
+        <area>Sunset Resort</area>
+        <address>Sunset Resort, Pomorie, Bulgaria</address>
         <postal_code/>
-        <latitude>42.687673</latitude>
-        <longitude>27.70292</longitude>
+        <latitude>42.56426554069105</latitude>
+        <longitude>27.606512898702984</longitude>
       </location>
       <property_type>
         <name>2-bedroom</name>
         <slug>2_bedroom</slug>
       </property_type>
-      <price currency="EUR" frequency="sale">109900</price>
+      <price currency="EUR" frequency="sale">99500</price>
       <areas unit="sqm">
-        <built>81</built>
+        <built>84</built>
         <plot/>
       </areas>
       <details>
@@ -8959,19 +8959,23 @@
         <bedrooms>2</bedrooms>
         <bathrooms>1</bathrooms>
         <showers/>
-        <floor>3</floor>
-        <total_floors>6</total_floors>
+        <floor>4</floor>
+        <total_floors>8</total_floors>
         <year_built>2008</year_built>
         <furnishing>Yes</furnishing>
         <heating/>
-        <label>No commission</label>
+        <label>Bargain</label>
       </details>
       <features>
         <feature slug="air-conditioning">Air Conditioning</feature>
+        <feature slug="controlled-access">Controlled access</feature>
         <feature slug="elevator">Elevator</feature>
+        <feature slug="1-st-line-to-the-beach">First line to the beach</feature>
+        <feature slug="green-areas">Green areas</feature>
         <feature slug="internet">Internet</feature>
         <feature slug="near-sea">Near Sea</feature>
         <feature slug="on-the-beach">On the Beach</feature>
+        <feature slug="security">Security</feature>
         <feature slug="swimming-pool">Swimming Pool</feature>
         <feature slug="wheelchair-access">Wheelchair access</feature>
       </features>
@@ -8981,42 +8985,34 @@
         <parking>0</parking>
         <garage>0</garage>
         <air_conditioning>1</air_conditioning>
-        <security>0</security>
+        <security>1</security>
         <wheelchair_access>1</wheelchair_access>
         <on_the_beach>1</on_the_beach>
         <near_sea>1</near_sea>
       </flags>
       <images>
-        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach9.jpg</image>
-        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach.jpg</image>
-        <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4746.JPEG</image>
-        <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4747.JPEG</image>
-        <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4749.JPEG</image>
-        <image order="6">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4752.JPEG</image>
-        <image order="7">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4753.JPEG</image>
-        <image order="8">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4755.JPEG</image>
-        <image order="9">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4757.JPEG</image>
-        <image order="10">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4760.JPEG</image>
-        <image order="11">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4761.JPEG</image>
-        <image order="12">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4764.JPEG</image>
-        <image order="13">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4765.JPEG</image>
-        <image order="14">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4766.JPEG</image>
-        <image order="15">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4769.JPEG</image>
-        <image order="16">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4770.JPEG</image>
-        <image order="17">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4771.JPEG</image>
-        <image order="18">https://ibgrealestates.com/wp-content/uploads/2026/09/IMG_4776.JPEG</image>
-        <image order="19">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach1.jpg</image>
-        <image order="20">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach2.jpg</image>
-        <image order="21">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach3.jpg</image>
-        <image order="22">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach4.jpg</image>
-        <image order="23">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach5.jpg</image>
-        <image order="24">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach6.jpg</image>
-        <image order="25">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach7.jpg</image>
-        <image order="26">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach8.jpg</image>
-        <image order="27">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beach-9_11-21-54-268.jpg</image>
-        <image order="28">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beachIMG_7943.jpg</image>
-        <image order="29">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beachIMG_7944.jpg</image>
-        <image order="30">https://ibgrealestates.com/wp-content/uploads/2026/09/darius-sunny-beachIMG_8474.jpg</image>
+        <image order="1">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-6.jpg</image>
+        <image order="2">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-14.jpg</image>
+        <image order="3">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-3.jpg</image>
+        <image order="4">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-5.jpg</image>
+        <image order="5">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-8.jpg</image>
+        <image order="6">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-10.jpg</image>
+        <image order="7">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-12.jpg</image>
+        <image order="8">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-22.jpg</image>
+        <image order="9">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-27.jpg</image>
+        <image order="10">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-28.jpg</image>
+        <image order="11">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-30.jpg</image>
+        <image order="12">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-31.jpg</image>
+        <image order="13">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-32.jpg</image>
+        <image order="14">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-34.jpg</image>
+        <image order="15">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-35.jpg</image>
+        <image order="16">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-38.jpg</image>
+        <image order="17">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-40.jpg</image>
+        <image order="18">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-42.jpg</image>
+        <image order="19">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-45.jpg</image>
+        <image order="20">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-48.jpg</image>
+        <image order="21">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-50.jpg</image>
+        <image order="22">https://ibgrealestates.com/wp-content/uploads/2026/09/Sunset-Resort-Pomorie-51.jpg</image>
       </images>
     </property>
   </properties>
